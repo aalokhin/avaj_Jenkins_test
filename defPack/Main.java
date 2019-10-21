@@ -13,6 +13,7 @@ public class Main {
     public static void main(String[] args)
             throws IOException
     {
+	            System.out.println("=))))) HEY THERE! LET'S CHECK IF WEBHOOK THING WORKS");
 
         if(args.length < 1)
         {
